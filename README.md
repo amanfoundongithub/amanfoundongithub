@@ -1,8 +1,33 @@
-- 👋 Hi, I’m someone who you know first name but not last name 
-- 👀 I’m interested in Computer Science 
-- 🌱 I’m currently learning C,Python,C++ 
-- 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me: Using your vehicle 
+# Namaste 🙏
+> Hi there! 
+> Glad to see you here!!! 
+
+## About Me
+
+### My Name?
+My real name is Aman Raj. Yeah I know my GitHub username sounds a bit weird.
+
+### Languages I know?
+I know Hindi, English and Urdu.
+Just kidding...
+
+
+I know 
+* JavaScript 
+* Python
+* C/C++ 
+* Kotlin
+* Dart [Flutter]
+* Bash Script [Linux]
+* Assembly Language [x86-64 of Linux Systems]
+* Arduino Coding 
+
+
+### My Contacts? 
+You can contact by the following ways:
+* **Instagram** : [aman_is_404_but_found](https://www.instagram.com/aman_is_404_but_found/)
+* **Telegram** : @Real_Telegram_Official 
+* **Email** : amanrajmathematics@gmail.com 
 
 <!---
 amanfoundongithub/amanfoundongithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
