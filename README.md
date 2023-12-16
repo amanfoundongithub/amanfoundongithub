@@ -29,7 +29,8 @@ You can contact by the following ways:
 * **Telegram** : @Real_Telegram_Official 
 * **Email** : amanrajmathematics@gmail.com
 
-![](https://visitor-badge.laobi.icu/badge?page_id=amanfoundongithub.amanfoundongithub)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=amanfoundongithub&show_icons=true&theme=tokyonight)
+
 
 
 <!---
