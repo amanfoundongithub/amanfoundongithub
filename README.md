@@ -27,7 +27,10 @@ I know
 You can contact by the following ways:
 * **Instagram** : [aman_is_404_but_found](https://www.instagram.com/aman_is_404_but_found/)
 * **Telegram** : @Real_Telegram_Official 
-* **Email** : amanrajmathematics@gmail.com 
+* **Email** : amanrajmathematics@gmail.com
+
+![](https://visitor-badge.laobi.icu/badge?page_id=amanfoundongithub.amanfoundongithub)
+
 
 <!---
 amanfoundongithub/amanfoundongithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
