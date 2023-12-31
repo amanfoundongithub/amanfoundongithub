@@ -30,7 +30,7 @@ You can contact by the following ways:
 * **Email** : amanrajmathematics@gmail.com
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amanfoundongithub&show_icons=true&theme=tokyonight)
-[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=amanfoundongithubt&theme=algolia&show_icons=true&layout=donut-vertical)](https://github.com/amanfoundongithub)
+[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=amanfoundongithub&theme=algolia&show_icons=true&layout=donut-vertical)](https://github.com/amanfoundongithub)
 
 
 <!---
