@@ -2,6 +2,9 @@
 > Hi there! 
 > Glad to see you here!!! 
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=amanfoundongithub)](https://github.com/amanfoundongithub)
+
 ## About Me
 
 ### My Name?
