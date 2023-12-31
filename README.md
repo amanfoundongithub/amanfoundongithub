@@ -30,8 +30,7 @@ You can contact by the following ways:
 * **Email** : amanrajmathematics@gmail.com
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amanfoundongithub&show_icons=true&theme=tokyonight)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanfoundongithub)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 amanfoundongithub/amanfoundongithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
