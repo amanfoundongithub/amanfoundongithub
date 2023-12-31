@@ -5,13 +5,13 @@
 ## About Me
 
 ### My Name?
-My real name is Aman Raj. Yeah I know my GitHub username sounds a bit weird.
+Aman Raj
 
 ### Languages I know?
-I know Hindi, English and Urdu.
-Just kidding...
+Hindi, English and Urdu.
 
 
+### Programming Languages I know?
 I know 
 * JavaScript 
 * Python
@@ -20,11 +20,26 @@ I know
 * Dart [Flutter]
 * Bash Script [Linux]
 * Assembly Language [x86-64 of Linux Systems]
-* Arduino Coding 
+* Arduino Coding
+
+### Tech Stacks I Know ?
+I know 
+* Databases: Firebase, MySQL, MongoDB
+* SDK : Flutter
+* Web development : MEAN, MERN
+* Backend : Django , Express.js
 
 
-### My Contacts? 
-You can contact by the following ways:
+### My Interests ? 
+- Sleeping
+- Playing Table Tennis and Cricket
+- Discussing Politics.
+- Watching movies and series.
+- Machine Learning
+
+
+### How Can You Reach Me?
+You can reach me by the following ways:
 * **Instagram** : [aman_is_404_but_found](https://www.instagram.com/aman_is_404_but_found/)
 * **Telegram** : @Real_Telegram_Official 
 * **Email** : amanrajmathematics@gmail.com
