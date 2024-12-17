@@ -7,9 +7,12 @@ Aman Raj
 
 ### Languages I know?
 Hindi, English and Urdu.
-I know English.
-मुझे हिंदी आती है
-میں نے اردو سیکھ لی ہے۔
+
+> I know English.
+
+> मुझे हिंदी आती है
+
+میں نے اردو سیکھ لی ہے۔>
 
 ## Programming Languages I know?
 I know the following languages: 
