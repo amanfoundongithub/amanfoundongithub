@@ -28,12 +28,39 @@ Bash script for Linux based systems to automate processes in Linux...!
 ### Microcontroller
 Arduino and ESP-32 are some microcontrollers I have worked with...!
 
+## Databases I Know? 
+I know both NoSQL and SQL based databases:
+
+### SQL Based
+MySQL, SQLite, PostgreSQL
+
+### NoSQL Based
+MongoDB, Redis, Google Firebase's Firestore, Embedded Database (Java)
+
+
 ## Tech Stacks I Have Worked With?
-I know 
-* Databases: Firebase, MySQL, MongoDB
-* SDK : Flutter
-* Web development : MEAN, MERN
-* Backend : Django , Express.js
+I have worked with following Tech stacks:
+
+### Javascript Based Tech Stacks
+- **MERN** : MongoDB (database), Express.js (Backend), React (Frontend)   and Node.js (Framework)
+- **MEAN** : MongoDB (database), Express.js (Backend), Angular (Frontend) and Node.js (Framework)
+
+### Dart Based Tech Stacks
+- **Flutter** : A tech stack developed by Google for fast UI development. I have used this for cross-platform single-codebase projects.
+
+### Java Based Tech Stacks
+- **Spring Boot** : Used Spring Boot framework as follows:
+  - **Backend Server** : Wrote RESTful API server for frontend applications.
+  - **Frontend** : Using Thymeleaf for creating static webpages binded with Java controllers.
+
+### Python Based Tech Stacks
+- **Flask** and **FastAPI** : I have used both for developing RESTful APIs. I prefer FastAPI over Flask
+due to its more asynchronous and robust nature.
+- **Django** : For secure backend applications. Tight coupling made me less interested. 
+- **Tkinter** for application design and **Turtle** for rendering graphics.
+
+### Rust Based Tech Stack
+- I have used Cargo to create and compile Rust projects. 
 
 
 ### My Interests ? 
