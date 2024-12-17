@@ -16,7 +16,6 @@ Hindi, English and Urdu.
 
 > میں اردو جانتا ہوں۔
 ## Programming Languages I know?
-I know the following languages: 
 ### OOPs
 Javascript, Python, C++, Java, Kotlin and Dart
 
