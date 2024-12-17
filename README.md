@@ -5,29 +5,27 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=amanfoundongithub)](https://github.com/amanfoundongithub)
 
-## About Me
-
-### My Name?
+## My LegalName? 
 Aman Raj
 
 ### Languages I know?
 Hindi, English and Urdu.
 
+## Programming Languages I know?
+I know the following languages: 
+### OOPs
+Javascript, Python, C++, Java, Kotlin and Dart are some of the OOPs languages I know. 
 
-### Programming Languages I know?
-I know 
-* JavaScript 
-* Python
-* C/C++ 
-* Kotlin
-* Dart [Flutter]
-* Bash Script [Linux]
-* Assembly Language [x86-64 of Linux Systems]
-* Arduino Coding
-* Java (Spring Boot)
+### Low Level/Server Side Languages
+Go, C, Rust and Assembly Language (x86-64 for Linux Based Systems) are some of the low level languages I know. 
 
+### Scripting Languages
+Bash script for Linux based systems to automate processes in Linux...!
 
-### Tech Stacks I Know ?
+### Microcontroller
+Arduino and ESP-32 are some microcontrollers I have worked with...!
+
+## Tech Stacks I Have Worked With?
 I know 
 * Databases: Firebase, MySQL, MongoDB
 * SDK : Flutter
