@@ -12,8 +12,7 @@ Hindi, English and Urdu.
 
 > मुझे हिंदी आती है
 
-میں نے اردو سیکھ لی ہے۔>
-
+> میں اردو جانتا ہوں۔
 ## Programming Languages I know?
 I know the following languages: 
 ### OOPs
