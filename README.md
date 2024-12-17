@@ -2,14 +2,14 @@
 > Hi there! 
 > Glad to see you here!!! 
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=amanfoundongithub)](https://github.com/amanfoundongithub)
-
-## My LegalName? 
-Aman Raj
+## My Legal Name? 
+Aman Raj 
 
 ### Languages I know?
 Hindi, English and Urdu.
+I know English.
+मुझे हिंदी आती है
+میں نے اردو سیکھ لی ہے۔
 
 ## Programming Languages I know?
 I know the following languages: 
@@ -46,6 +46,8 @@ You can reach me by the following ways:
 * **Instagram** : [aman_is_404_but_found](https://www.instagram.com/aman_is_404_but_found/)
 * **Telegram** : @Real_Telegram_Official 
 * **Email** : amanrajmathematics@gmail.com
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=amanfoundongithub)](https://github.com/amanfoundongithub)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amanfoundongithub&show_icons=true&theme=tokyonight)
 
