@@ -41,11 +41,11 @@ MongoDB, Redis, Google Firebase's Firestore, Embedded Database (Java)
 ## Tech Stacks I Have Worked With?
 I have worked with following Tech stacks:
 
-### Javascript Based Tech Stacks
+### Javascript
 - **MERN** : MongoDB (database), Express.js (Backend), React (Frontend)   and Node.js (Framework)
 - **MEAN** : MongoDB (database), Express.js (Backend), Angular (Frontend) and Node.js (Framework)
 
-### Dart Based Tech Stacks
+### Dart
 - **Flutter** : A tech stack developed by Google for fast UI development. I have used this for cross-platform single-codebase projects.
 
 ### Java Based Tech Stacks
@@ -53,22 +53,27 @@ I have worked with following Tech stacks:
   - **Backend Server** : Wrote RESTful API server for frontend applications.
   - **Frontend** : Using Thymeleaf for creating static webpages binded with Java controllers.
 
-### Python Based Tech Stacks
+### Python
 - **Flask** and **FastAPI** : I have used both for developing RESTful APIs. I prefer FastAPI over Flask
 due to its more asynchronous and robust nature.
 - **Django** : For secure backend applications. Tight coupling made me less interested. 
 - **Tkinter** for application design and **Turtle** for rendering graphics.
+- Apart from this, I have used **Pytorch** and **Tensorflow** for doing AI/ML related tasks.
+- **Gymnasium** for getting Reinforcement-Learning environments. 
 
-### Rust Based Tech Stack
+### Rust
 - I have used Cargo to create and compile Rust projects. 
 
 
-### My Interests ? 
-- Sleeping
-- Playing Table Tennis and Cricket
-- Discussing Politics.
-- Watching movies and series.
+## My Interests? 
 - Machine Learning
+- Reinforcement Learning
+- Sleeping
+- Sports
+  - I like to watch and play cricket a lot!
+  - I also like to play table tennis.
+- Watching movies and series.
+- Discussing Politics.
 
 
 ### How Can You Reach Me?
