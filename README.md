@@ -5,7 +5,7 @@
 ## My Legal Name? 
 Aman Raj 
 
-### Languages I know?
+## Languages I know?
 Hindi, English and Urdu.
 
 > I know English.
