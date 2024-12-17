@@ -16,10 +16,10 @@ Hindi, English and Urdu.
 ## Programming Languages I know?
 I know the following languages: 
 ### OOPs
-Javascript, Python, C++, Java, Kotlin and Dart are some of the OOPs languages I know. 
+Javascript, Python, C++, Java, Kotlin and Dart
 
 ### Low Level/Server Side Languages
-Go, C, Rust and Assembly Language (x86-64 for Linux Based Systems) are some of the low level languages I know. 
+Go, C, Rust and Assembly Language (x86-64 for Linux Based Systems)
 
 ### Scripting Languages
 Bash script for Linux based systems to automate processes in Linux...!
