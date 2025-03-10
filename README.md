@@ -19,7 +19,7 @@ Hindi, English and Urdu.
 > میں اردو جانتا ہوں۔
 ## Programming Languages I know?
 ### OOPs
-Javascript, Python, C++, Java, Kotlin and Dart
+Javascript, Python, C++, Java, Kotlin, Ruby and Dart
 
 ### Low Level/Server Side Languages
 Go, C, Rust and Assembly Language (x86-64 for Linux Based Systems)
