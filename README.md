@@ -7,7 +7,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amanfoundongithub&show_icons=true&theme=tokyonight) [![Aman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=amanfoundongithub&theme=algolia&show_icons=true&layout=compact)](https://github.com/amanfoundongithub)
 
 ## My Legal Name? 
-Aman Raj 
+> Aman Raj 
 
 ## Languages I know?
 Hindi, English and Urdu.
@@ -18,17 +18,7 @@ Hindi, English and Urdu.
 
 > میں اردو جانتا ہوں۔
 ## Programming Languages I know?
-### OOPs
-Javascript, Python, C++, Java, Kotlin, Ruby and Dart
-
-### Low Level/Server Side Languages
-Go, C, Rust and Assembly Language (x86-64 for Linux Based Systems)
-
-### Scripting Languages
-Bash script for Linux based systems to automate processes in Linux...!
-
-### Microcontroller
-Arduino and ESP-32 are some microcontrollers I have worked with...!
+Java, JS, Python, C/C++, Kotlin, Go, Dart, Ruby, Perl, Rust, Assembly Language (x86-64) and Arduino. 
 
 ## Databases I Know? 
 I know both NoSQL and SQL based databases:
