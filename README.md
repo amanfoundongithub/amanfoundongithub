@@ -21,14 +21,7 @@ Hindi, English and Urdu.
 Java, JS, Python, C/C++, Kotlin, Go, Dart, Ruby, Perl, Rust, Assembly Language (x86-64) and Arduino. 
 
 ## Databases I Know? 
-I know both NoSQL and SQL based databases:
-
-### SQL Based
-MySQL, SQLite, PostgreSQL
-
-### NoSQL Based
-MongoDB, Redis, Google Firebase's Firestore, Embedded Database (Java)
-
+I know both NoSQL and SQL based databases like MySQL, SQLite, PostgreSQL, MongoDB, Redis, Google Firebase's Firestore, Embedded Database (Java)
 
 ## Tech Stacks I Have Worked With?
 I have worked with following Tech stacks:
