@@ -79,10 +79,7 @@ due to its more asynchronous and robust nature.
 
 
 ### How Can You Reach Me?
-You can reach me by the following ways:
-* **Instagram** : [aman_is_404_but_found](https://www.instagram.com/aman_is_404_but_found/)
-* **Telegram** : @Real_Telegram_Official 
-* **Email** : amanrajmathematics@gmail.com
+
 
 
 
