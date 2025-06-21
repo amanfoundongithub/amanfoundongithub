@@ -2,7 +2,6 @@
 > Hi there! 
 > Glad to see you here!!! 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=amanfoundongithub)](https://github.com/amanfoundongithub)
 
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanfoundongithub&theme=chartreuse-dark&show_icons=true)
 ![Aman's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanfoundongithub&layout=compact&langs_count=10)
