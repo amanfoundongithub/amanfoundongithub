@@ -4,7 +4,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=amanfoundongithub)](https://github.com/amanfoundongithub)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=amanfoundongithub&show_icons=true&theme=tokyonight) [![Aman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=amanfoundongithub&theme=algolia&show_icons=true&layout=compact)](https://github.com/amanfoundongithub)
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanfoundongithub&theme=chartreuse-dark&show_icons=true)
 
 ## My Legal Name? 
 > Aman Raj 
