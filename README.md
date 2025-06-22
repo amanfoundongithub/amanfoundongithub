@@ -5,6 +5,8 @@
 
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanfoundongithub&theme=chartreuse-dark&show_icons=true)
 ![Aman's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanfoundongithub&layout=compact&langs_count=15&theme=chartreuse-dark)
+
+> My stats 
 ![trophy](https://github-profile-trophy.vercel.app/?username=amanfoundongithub&theme=onedark)
 
 ## My Legal Name? 
