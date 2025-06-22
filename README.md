@@ -5,7 +5,7 @@
 
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanfoundongithub&theme=chartreuse-dark&show_icons=true)
 ![Aman's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanfoundongithub&layout=compact&langs_count=10&theme=chartreuse-dark)
-![trophy](https://github-profile-trophy.vercel.app/?username=amanfoundongithub)
+![trophy](https://github-profile-trophy.vercel.app/?username=amanfoundongithub&theme=chartreuse-dark)
 
 ## My Legal Name? 
 > Aman Raj 
