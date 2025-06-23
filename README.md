@@ -28,7 +28,7 @@ Java, JS, Python, C/C++, Kotlin, Go, Dart, Ruby, Perl, Rust, Assembly Language (
 - Sleeping
 - Watching movies and series.
 
-![trophy](https://github-profile-trophy.vercel.app/?username=amanfoundongithub&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=amanfoundongithub)
 
 ### How Can You Reach Me?
 Using any of the links of the social media I mentioned. 
