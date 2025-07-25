@@ -37,7 +37,7 @@ Java, JS, Python, C/C++, Kotlin, Go, Dart, Ruby, Perl, Rust, Assembly Language (
 ### How Can You Reach Me?
 Using any of the links of the social media I mentioned. 
 
-`Thank You and Have a Good Day!`
+> Thank You and Have a Good Day! 
 
 <!---
 amanfoundongithub/amanfoundongithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
