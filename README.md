@@ -1,7 +1,5 @@
 # Namaste 🙏
-> Hi there! 
-> Glad to see you here!!!
-> Don't want to brag, but here are my GitHub stats: 
+> Hello there! Welcome to `amanfoundongithub`'s profile! 
 
 
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanfoundongithub&theme=chartreuse-dark&show_icons=true)
