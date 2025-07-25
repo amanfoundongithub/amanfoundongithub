@@ -37,7 +37,12 @@ Java, JS, Python, C/C++, Kotlin, Go, Dart, Ruby, Perl, Rust, Assembly Language (
 ### How Can You Reach Me?
 Using any of the links of the social media I mentioned. 
 
-> Thanks for visiting my profile, have a good day!
+# My Repositories
+I have made quite a lot of repositories, but seems like a classification was important!
+Anyways, here are some of my repositories classified (by their nature?)
+
+## Reinforcement Learning
+
 <!---
 amanfoundongithub/amanfoundongithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
