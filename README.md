@@ -64,8 +64,13 @@ To see how many of these I have used in my repository, you can refer to them in 
 
 
 
-## Closing Remarks
-> Thanks for visiting my profile, have a good day!
+# 🌟 Closing Note  
+---
+> Thanks for stopping by my profile — have a wonderful day ahead! 
+
+<p align="center">
+  <i> P.S. The profile picture? That’s <b>Xu Yu</b> from the anime <i>No Doubt In Us</i> </i>
+</p>
 
 <!---
 amanfoundongithub/amanfoundongithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
