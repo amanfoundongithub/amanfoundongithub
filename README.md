@@ -14,11 +14,12 @@
 > Aman Raj 
 
 ## Languages I know?
-Hindi, English and Urdu.
 
+- English:
 > I know English.
-
+- Hindi:
 > मुझे हिंदी आती है
+- Urdu:
 
 > میں اردو جانتا ہوں۔
 ## Programming Languages I know?
