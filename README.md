@@ -21,9 +21,6 @@ To see how many of these I have used in my repository, you can refer to them in 
 
 ![Aman's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanfoundongithub&layout=compact&langs_count=15&theme=chartreuse-dark)
 
-## Grind Statistics
-[![GitHub Streak](https://streak-stats.demolab.com/?user=amanfoundongithub&theme=dark)](https://git.io/streak-stats)
-
 ## GitHub Statistics 
 ---
 **Don't want to brag but here are my GitHub stats:**
