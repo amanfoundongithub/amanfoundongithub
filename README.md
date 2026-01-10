@@ -2,12 +2,10 @@
 
 **Hello there! Welcome to my profile!!**
 
-# Technical Profile
+# GitHub Statistics
+As of now, I have <p style="color: green;">60</p> repositories.
 
-## General Statistics
-I have been actively contributing to GitHub for over an year, and here are some of 
-my stats: 
-< To be updated>
+
 
 ## Programming Languages
 I know a variety of programming languages, and here are some of them I have used in my 
