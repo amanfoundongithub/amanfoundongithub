@@ -7,7 +7,7 @@
 ## GitHub Contributions
 ---
 ![General Stats](https://github-readme-stats-fast.vercel.app/api?username=amanfoundongithub&show_icons=true&theme=tokyonight)
-![Language Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=amanfoundongithub&layout=donut-vertical&theme=tokyonight&langs_count=10)
+![Language Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=amanfoundongithub&layout=donut&theme=tokyonight&langs_count=10)
 
 ## Trophy Cabinet
 ---
