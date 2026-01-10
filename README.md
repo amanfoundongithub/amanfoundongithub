@@ -1,26 +1,18 @@
 # Namaste 🙏
 
 **Hello there! Welcome to my profile!!**
+![Streak Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=amanfoundongithub&theme=tokyonight)
+
+
+## GitHub Contributions
+---
+![General Stats](https://github-readme-stats-fast.vercel.app/api?username=amanfoundongithub&show_icons=true&theme=tokyonight)
+![Language Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=amanfoundongithub&layout=donut-vertical&theme=tokyonight&langs_count=10)
 
 ## Trophy Cabinet
 ---
 ![Profile Trophies](https://github-trophies.vercel.app/?username=amanfoundongithub)
 
-# GitHub Statistics
-As of now, I have <p style="color: green;">60</p> repositories.
-
-
-
-## Programming Languages
-I know a variety of programming languages, and here are some of them I have used in my 
-repository:
-
-<To be updated>
-
-
-
-
-<To Be Updated More Soon...>
 
 # Personal Profile
 
