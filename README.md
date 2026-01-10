@@ -4,7 +4,7 @@
 
 ## Trophy Cabinet
 ---
-![trophy]([https://github-profile-trophy.vercel.app/?username=amanfoundongithub](https://github-trophies.vercel.app/?username=amanfoundongithub))
+![Profile Trophies](https://github-trophies.vercel.app/?username=amanfoundongithub)
 
 # GitHub Statistics
 As of now, I have <p style="color: green;">60</p> repositories.
