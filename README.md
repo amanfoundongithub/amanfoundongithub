@@ -1,16 +1,19 @@
 # Namaste 🙏
 
 **Hello there! Welcome to my profile!!**
+
+# GitHub Contributions
+
+## General
+![General Stats](https://github-readme-stats-fast.vercel.app/api?username=amanfoundongithub&show_icons=true&theme=tokyonight)
+
+## Streak
 ![Streak Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=amanfoundongithub&theme=tokyonight)
 
-
-## GitHub Contributions
----
-![General Stats](https://github-readme-stats-fast.vercel.app/api?username=amanfoundongithub&show_icons=true&theme=tokyonight)
+## Languages Used 
 ![Language Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=amanfoundongithub&layout=donut&theme=tokyonight&langs_count=10)
 
 ## Trophy Cabinet
----
 ![Profile Trophies](https://github-trophies.vercel.app/?username=amanfoundongithub)
 
 
