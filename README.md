@@ -2,6 +2,10 @@
 
 **Hello there! Welcome to my profile!!**
 
+## Trophy Cabinet
+---
+![trophy]([https://github-profile-trophy.vercel.app/?username=amanfoundongithub](https://github-trophies.vercel.app/?username=amanfoundongithub))
+
 # GitHub Statistics
 As of now, I have <p style="color: green;">60</p> repositories.
 
@@ -13,9 +17,7 @@ repository:
 
 <To be updated>
 
-## Trophy Cabinet
----
-![trophy](https://github-profile-trophy.vercel.app/?username=amanfoundongithub)
+
 
 
 <To Be Updated More Soon...>
