@@ -1,6 +1,6 @@
 # Namaste 🙏
 
-**Hello there! Welcome to my profile!! Feel free to scroll below to explore my profile!**
+**Hello there! Welcome to my profile!!**
 
 # Technical Profile
 
