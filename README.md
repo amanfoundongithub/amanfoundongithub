@@ -11,7 +11,7 @@
 ![Streak Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=amanfoundongithub&theme=tokyonight)
 
 ## Languages Used 
-![Language Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=amanfoundongithub&layout=donut&theme=tokyonight&langs_count=10)
+![Language Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=amanfoundongithub&layout=compact&theme=tokyonight&langs_count=10)
 
 ## Trophy Cabinet
 ![Profile Trophies](https://github-trophies.vercel.app/?username=amanfoundongithub)
